@@ -27,7 +27,7 @@ from dast import pysmarts as pysm
 from dast import spectral, airmass
 
 
-SMARTS_DIR = 'SMARTS_295_Linux'
+SMARTS_DIR = '../SMARTS_295_Linux'
 
 SMARTS_INP_TEMPLATE = """
 'Template input for custom run'	!Card 1 Comment
